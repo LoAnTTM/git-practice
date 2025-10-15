@@ -50,5 +50,9 @@ Simulate a collaborative development workflow. Each member will practice the fol
 
 ## Team Members
 
-- Add your name here
-Huynh Viet Thinh
+- Huynh Viet Thinh
+- Anh Khoa
+- Le Vu
+- Bao Trang
+- Pham Van Tuan
+- Truong Thi Minh Loan
