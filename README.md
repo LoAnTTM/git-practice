@@ -52,4 +52,4 @@ Simulate a collaborative development workflow. Each member will practice the fol
 
 - Bao Trang
 - Pham Van Tuan
-
+**Truong Thi Minh Loan**
