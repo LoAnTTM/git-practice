@@ -50,6 +50,6 @@ Simulate a collaborative development workflow. Each member will practice the fol
 
 ## Team Members
 
-- Add your name here
-
+- Bao Trang
+- Pham Van Tuan
 **Truong Thi Minh Loan**
