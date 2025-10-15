@@ -9,6 +9,7 @@ def greet():
     print("Hello from LeVu!")
     print("Hello from Truong Thi Minh Loan!")
     print("Hello from Bao Trang!")
+    print("Hello from Pham Tuan!")
 
 if __name__ == "__main__":
     greet()
