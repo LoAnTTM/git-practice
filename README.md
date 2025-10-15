@@ -50,7 +50,6 @@ Simulate a collaborative development workflow. Each member will practice the fol
 
 ## Team Members
 
-- Huynh Viet Thinh
 - Anh Khoa
 - Le Vu
 - Bao Trang
