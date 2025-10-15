@@ -51,3 +51,4 @@ Simulate a collaborative development workflow. Each member will practice the fol
 ## Team Members
 
 - Add your name here
+Huynh Viet Thinh
