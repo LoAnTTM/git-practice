@@ -6,10 +6,11 @@ def greet():
     print("Hello Team!")
     # TODO: Add your print statement below this line
     # Example: print("Hello from [Your Name]!")
-    print("Hello from LeVu!")
     print("Hello from Truong Thi Minh Loan!")
+    print("Hello from Le Vu!")
     print("Hello from Bao Trang!")
     print("Hello from Pham Tuan!")
+    print("Hello from Viet Thinh !")
 
 if __name__ == "__main__":
     greet()
